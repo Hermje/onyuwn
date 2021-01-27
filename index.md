@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -16,6 +15,9 @@
       </li>
       <li>
         <p><a href="https://instagram.com/p/CJRnQLPgzMP/">color 43 w/ @bohlshit</a></p>
+      </li>
+      <li class="special">
+        <p><a href="https://youtu.be/8ccecLq2o08">WIP vid for onyuwn page</a></p>
       </li>
       <li>
         <p><a href="https://youtu.be/ohhKJI-bqRw">say hello to Garth <3</a></p>

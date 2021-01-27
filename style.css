@@ -14,7 +14,7 @@ li {
   transition:box-shadow .25s ease-in-out;
   transition:background-color .25s ease-in-out;
   margin: 25px;
-  margin-right: 300px;
+  margin-right: 100px;
 }
 
 li:hover {
@@ -45,11 +45,15 @@ img {
 }
 
 .gif {
-  filter: blur(10px);
   transition:filter .25s ease-in-out;
 }
 
 .gif:hover {
   filter:blur(0px);
   transition:filter .25s ease-in-out;
+}
+
+.special
+{
+  background-color: red;
 }
